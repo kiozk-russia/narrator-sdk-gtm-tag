@@ -1,0 +1,5 @@
+homepage: "https://narrator.kiozk.ru"
+documentation: "https://github.com/kiozk-russia/narrator-sdk-gtm-tag"
+versions:
+  - sha: 63a2f40eb18a0e0daab2830fff4616a4fc407374
+    changeNotes: Initial release.
